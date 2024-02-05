@@ -6,7 +6,7 @@
 
 A Basic **RAT** written in **Nim**.
 
-## Usage
+## ✨ Get Started
 Follow these steps to get started with **NimRAT**
 ```bash
 $ git clone https://github.com/aC5ro/nimrat
